@@ -1,0 +1,25 @@
+body{
+	background:linear-gradient(to left,black,grey);
+}
+
+h1{
+	display: flex;
+	justify-content: center;
+	color: blueviolet;
+}
+
+p{
+	color: white;
+}
+
+
+img{
+	width: 400px;
+	height: 400px;
+	
+	}
+
+.imagen{
+	display: flex;
+	justify-content: center;
+}
